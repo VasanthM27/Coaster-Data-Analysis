@@ -30,4 +30,11 @@ The dataset includes columns such as:
 ## Visualizations
 Includes bar charts, scatter plots, and line graphs to display coaster performance metrics.
 
-<img src= "https://github.com/VasanthM27/Sales-Growth-and-Product-Performance-Analysis/blob/main/folder/1.PNG" /></br>
+<img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/1.PNG" /></br>
+<img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/2.PNG" /></br>
+<img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/0.PNG" /></br>
+<img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/3.PNG" /></br>
+<img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/4.PNG" /></br>
+<img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/5.PNG" /></br>
+<img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/6.PNG" /></br>
+<img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/7.PNG" /></br>
