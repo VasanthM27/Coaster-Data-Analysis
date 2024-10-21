@@ -37,6 +37,6 @@ Includes bar charts, scatter plots, and line graphs to display coaster performan
 <img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/4.PNG" /></br>
 <img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/5.PNG" /></br>
 <img src= "https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/6.PNG" /></br>
-<img src="https://raw.githubusercontent.com/VasanthM27/Coaster-Data-Analysis/main/folder/7.PNG" width="500" />
+<img src="https://github.com/VasanthM27/Coaster-Data-Analysis/blob/main/folder/7.png" />
 
 
